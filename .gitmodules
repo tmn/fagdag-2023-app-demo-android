@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/libs/haversine"]
+	path = app/src/main/cpp/libs/haversine
+	url = git@github.com:tmn/HaversineDistance.git
